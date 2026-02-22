@@ -32,5 +32,5 @@ Python環境と、以下のライブラリが必要です。詳細なバージ�
 
 1. **リポジトリのクローン**（またはファイルのダウンロード）
    ```bash
-   git clone [https://github.com/あなたのユーザー名/リポジトリ名.git](https://github.com/あなたのユーザー名/リポジトリ名.git)
-   cd リポジトリ名
+   git clone　https://github.com/Itohiro2929-ctrl/Stock-Vizualization-App.git
+   cd Stock-Vizualization-App
